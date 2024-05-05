@@ -1,6 +1,6 @@
-# Kiv - a eCommerce Website
+# Kiv - an eCommerce Website
 
-Kiv is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Kiv is a fully responsive e-commerce website, with maximum compatibilities on all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
@@ -21,15 +21,15 @@ To install **kiv**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone .git
+sudo git clone https://github.com/Himanshigupta1624/kiv-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone.git
+git clone https://github.com/Himanshigupta1624/kiv-ecommerce-website.git
 ```
 
 ## License
 
-This project is free to use and does not contains any license.
+This project is free to use and does not contain any license.
