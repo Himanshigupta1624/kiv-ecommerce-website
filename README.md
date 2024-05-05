@@ -4,7 +4,7 @@ Kiv is a fully responsive e-commerce website, with maximum compatibilities on al
 
 ## Demo
 
-![kiv Desktop Demo](website-demo-image\website.png "Desktop Demo")
+![kiv Desktop Demo](website-demo-image/website.png "Desktop Demo")
 ![kiv Desktop Demo](website-demo-image\website2.png "Desktop Demo")
 
 
